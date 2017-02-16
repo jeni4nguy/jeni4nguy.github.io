@@ -20,7 +20,7 @@ description: details
 
 Impeto Medical is a privately owned medical device company which manufactures and markets devices for non-invasive assessment of sweat gland activity through Sudorimetry.
 
-![user flows](../img/portfolio/sudoscan/Impeto-mockups.png"wireframe"){:.img-responsive .mx-auto}
+![user flows](../img/portfolio/sudoscan/Impeto-mockups.png "wireframe"){:.img-responsive .mx-auto}
 
 ### The Challenge
 
