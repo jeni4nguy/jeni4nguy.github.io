@@ -5,7 +5,7 @@ modal-id: 1
 date: 2014-07-18
 title: YMCA
 img: ymca-square.png
-hero-img: ymca-square.png
+hero-img: hero-projects.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
@@ -72,8 +72,4 @@ The final step in our UX Approach were the designs. YMCA already has a brand gui
 {:#section6}
 
 # Impact
-This is still a work in Progress. Website and Mobile App are set to launch in Early 2017. 
-
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet ".md Cheatsheet"){:target="\_blank"}
-
-This one is for [kramdown](https://kramdown.gettalong.org/syntax.html "kramdown"){:target="\_blank"}, a plugin used on your site to extend regular markdown functions
+This is still a work in Progress. Website and Mobile App are set to launch in Early 2017.
