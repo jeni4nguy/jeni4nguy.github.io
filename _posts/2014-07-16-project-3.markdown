@@ -25,7 +25,7 @@ Soundseed is a San Diego based start-up company which originally wanted build a 
 
 The founders of this new app has enlisted my services in order to ensure that the Minimum Viable Product is easy to use and pleasant. As the fifth member of the team, I am taking lead of the User Experience and Design. We are hoping that this web app will have lots of daily users and create a meaningful connection between artists and consumers.
 
-[http://www.soundseed.co]  
+<http://www.soundseed.co>  
 
 {:#section2}
 # Our Approach
@@ -56,9 +56,9 @@ Next, I suggested that they have an Information Architecture in order to organiz
 
 I was really excited to jump into wireframes because it involved a lot of creativity. Since we were essentially trying to build an app that has never been done before, I definitely had a lot of fun during this stage. I created low-fidelity wireframes using Balsamiq to visually guide the developers on building the API and data layers. I mainly gathered feedback from my friends and made multiple iterations. It would've been cool to have a Venture Capitalist invest in this idea so that the money could've gone towards user research. I wanted to test my wireframes with users from the target demographics for this app. Those users were millenials, music artists, and recording labels.
 
-![soundseed](../img/portfolio/soundseed/balsamiq-1.jpg "wireframe"){:.img-responsive .mx-auto}
-![soundseed](../img/portfolio/soundseed/balsamiq-2.jpg "wireframe"){:.img-responsive .mx-auto}
-![soundseed](../img/portfolio/soundseed/balsamiq-3.jpg "wireframe"){:.img-responsive .mx-auto}
+![soundseed](../img/portfolio/soundseed/balsamiq-1.png "wireframe"){:.img-responsive .mx-auto}
+![soundseed](../img/portfolio/soundseed/balsamiq-2.png "wireframe"){:.img-responsive .mx-auto}
+![soundseed](../img/portfolio/soundseed/balsamiq-3.png "wireframe"){:.img-responsive .mx-auto}
 
 
 {:#section5}
