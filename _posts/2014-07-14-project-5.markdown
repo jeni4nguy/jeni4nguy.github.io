@@ -53,4 +53,6 @@ Created the UI to give more depth to the colors, fonts, and styles to be used in
 {:#section6}
 
 # Impact
-This is still a work in Progress. Website and Mobile App are set to launch in Early 2017.
+Website was launched on October 2016.
+
+<https://www.sudoscan.com/>
