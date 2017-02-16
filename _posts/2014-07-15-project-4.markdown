@@ -65,8 +65,6 @@ I was inspired by the Fun Theory. The Fun Theory states that something as simple
 
 Even more so, I was inspired by their Bottle Bank Arcade Machine. You can watch the video below:
 
-<a href="https://www.youtube.com/watch?v=zSiHjMU-MUo"><img src="/img/portfolio/ucsd/wireframe.jpg"
-alt="fun theory" width="240" height="180" border="10" /></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zSiHjMU-MUo?ecver=1" frameborder="0" allowfullscreen></iframe>
 
@@ -90,7 +88,7 @@ We came to the conclusion that we should make it harder for students to throw wh
 
 We discovered that the new design worked but only to an extent. The compost bin only had compostable food when the other two bins were not full. If the other two bins were full, then students had no other choice than to put their trash in the compost bin. This certainly raised a problem that we didn't account for. Ultimately, if the busser is not always taking out the trash then we create a situation in which students have no other choice than to put trash in the compost bin.
 
-Lastly, our design didn't account for outdoor trash. There are so many more factors such as rodents, weather, and visibility. If we had more time, we would develop more prototypes and conduct more contextual interviews. 
+Lastly, our design didn't account for outdoor trash. There are so many more factors such as rodents, weather, and visibility. If we had more time, we would develop more prototypes and conduct more contextual interviews.
 
 ![ucsd](../img/portfolio/ucsd/finish.png "proto"){:.img-responsive .mx-auto}
 
