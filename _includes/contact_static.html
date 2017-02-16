@@ -52,9 +52,9 @@
 			</p>
 			{% for network in site.social%}
 			{% if network.title == "linkedin" %}
-			<a href="{{ network.url }}" class="text-left" ><i class="fa fa-2x fa-linkedin-square"></i></a>
+			<a href="{{ network.url }}" target="_blank" class="text-left" ><i class="fa fa-2x fa-linkedin-square"></i></a>
 			{% else %}
-			<a href="{{ network.url }}" class="text-left" ><i class="fa fa-2x fa-{{ network.title }}"></i></a>
+			<a href="{{ network.url }}" target="_blank" class="text-left" ><i class="fa fa-2x fa-{{ network.title }}"></i></a>
 			{% endif %}
 			{% endfor %}
 		</div>
