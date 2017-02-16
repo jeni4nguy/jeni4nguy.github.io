@@ -1,8 +1,12 @@
 .project-body{
-  padding: 50px 100px;
   background-color: #fff;
   margin-top: -100px;
   /*margin-right: 50px;*/
+}
+@media screen and (min-width: 768px){
+  .project-body{
+    padding: 50px 100px;
+  }
 }
 #side-nav{
   /*white-space: nowrap;*/
