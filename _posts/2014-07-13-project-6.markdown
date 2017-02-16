@@ -18,5 +18,5 @@ description: Graphics gallery
 ![ucsd](../img/portfolio/graphics/summersales copy.jpg "art"){:.img-responsive .mx-auto}
 ![ucsd](../img/portfolio/graphics/springbanner2.jpg "art"){:.img-responsive .mx-auto}
 ![ucsd](../img/portfolio/graphics/2016-rdx-1920p.jpg "art"){:.img-responsive .mx-auto}
-![ucsd](../img/portfolio/graphics/0709HQS.jpg "art"){:.img-responsive .mx-auto}
+![ucsd](../img/portfolio/graphics/0709HQS copy.jpg "art"){:.img-responsive .mx-auto}
 ![ucsd](../img/portfolio/graphics/beer_bottle3.jpg "art"){:.img-responsive .mx-auto}
