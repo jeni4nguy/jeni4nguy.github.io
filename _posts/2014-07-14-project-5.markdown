@@ -5,13 +5,52 @@ modal-id: 6
 date: 2014-07-14
 title: SudoScan
 img: sudoscan-square.jpg
-hero-img: sudoscan-hero.jpg
+hero-img: sudoscan/sudoscan-hero.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Website Redesign
 disipline: UX/UI
 duration: 2 months
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: details
 
 ---
+# The Challenge
+### Background
+
+Impeto Medical is a privately owned medical device company which manufactures and markets devices for non-invasive assessment of sweat gland activity through Sudorimetry.
+
+![user flows](../img/portfolio/sudoscan/Impeto-mockups.png"wireframe"){:.img-responsive .mx-auto}
+
+### The Challenge
+
+Impeto Medical has tasked Jacob Tyler Agency with enhancing its website by creating an impactful, relevant and attractive online presence so that they may continue their path for success, credibility and new opportunities for expansion and profit. Jacob Tyler Agency will create an online experience which will provide doctors and patients with the resources to learn more about the medical device: Sudoscan.
+
+{:#section2}
+# Our Approach
+
+
+{:#section3}
+### Information Architecture
+
+Made an Information Architecture to organize the navigation and content in a clear and concise manner.
+
+![user flows](../img/portfolio/sudoscan/site-architecture.jpg "IA"){:.img-responsive .mx-auto}
+
+{:#section4}
+### Wireframes
+
+Designed Interactive Wireframes to visually guide the developers on the skeletal front end of the website.
+
+![user flows](../img/portfolio/sudoscan/wireframe.jpg "wireframe"){:.img-responsive .mx-auto}
+
+{:#section5}
+### Design
+Created the UI to give more depth to the colors, fonts, and styles to be used in the developed site.
+
+![user flows](../img/portfolio/sudoscan/design.jpg "design"){:.img-responsive .mx-auto}
+
+{:#section6}
+
+# Impact
+This is still a work in Progress. Website and Mobile App are set to launch in Early 2017.
