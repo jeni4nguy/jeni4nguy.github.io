@@ -15,7 +15,7 @@ duration: 5+ months
 description: Details on the Hensel Phelps Project
 
 ---
----
+
 {:#section1}
 # The Challenge
 ### Background
