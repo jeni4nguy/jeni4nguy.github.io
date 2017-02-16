@@ -41,7 +41,7 @@ We examined how these 4 scenarios currently flowed on the website, and looked fo
 ![user flows](../img/portfolio/ymca/user-flows.jpg "User Flows"){:.img-responsive .mx-auto}
 
 {:#section3}
-### Site Architecture
+### Information Architecture
 
 Next, we created an information architecture (IA). This was actually a beast to tackle due to the enormous size of their website. Performing a detailed audit and analysis of the existing content was no easy task. They had at least 2,000 webpages because it had just accumulated over the years with individual pages being created each time they had new information instead of being added to an existing page. This certainly posed a challenge as we had to figure out what was the best way to present this deliverable. We couldn’t follow standard conventions where it would look like a family tree. In the image below, we attempted to do so but it would be too large of a document if we kept expanding the branches. We tried to experiment with software such as Balsamiq, Axure, and Adobe XD. Nothing currently on the market seemed to fulfill our needs so we ended up putting everything on a Google spreadsheet. We were able to cut them down to about 300 pages which is a significant trim.
 
