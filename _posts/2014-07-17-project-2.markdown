@@ -9,8 +9,8 @@ hero-img: hp/hp-hero-2.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-disipline: UI/UX
+category: Website Redesign
+disipline: UX/UI
 duration: 5+ months
 description: Details on the Hensel Phelps Project
 
