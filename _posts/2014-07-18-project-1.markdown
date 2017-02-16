@@ -9,8 +9,8 @@ hero-img: ymca-hero.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Website + Mobile
-disipline: UI/UX
+category: Website Redesign + Mobile App
+disipline: UX/UI
 duration: 9 months
 description: Details on YMCA project
 
