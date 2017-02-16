@@ -12,16 +12,21 @@ client: Start Bootstrap
 category: Website + Mobile
 disipline: UI/UX
 duration: 9 months
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Details on YMCA project
 
 ---
 {:#section1}
-# Heading
+# The Challenge
+## Background
 
-Id ea magna mollit nulla reprehenderit aliqua sunt. Esse ipsum pariatur non tempor id nostrud mollit dolore ut qui mollit fugiat Lorem non tempor aliqua. Est veniam incididunt laboris sint sit sit nulla veniam sint laboris aute excepteur. Velit pariatur anim velit commodo laboris Lorem excepteur ad aliquip id enim pariatur amet pariatur ex reprehenderit nostrud. Irure pariatur ullamco ut et amet id consequat nostrud reprehenderit dolor anim enim deserunt amet anim ipsum aute. Sunt sint officia exercitation nulla non commodo id veniam tempor esse mollit nisi ut ullamco non incididunt. Consequat cupidatat dolore aliquip anim reprehenderit incididunt reprehenderit duis nisi tempor fugiat nulla dolor voluptate sit est mollit. Labore non ad veniam amet non ex Lorem dolor laboris non incididunt excepteur irure occaecat.
+San Diego YMCA proudly offers state-of-the-art fitness equipment, group exercise classes, free child watch, and programs for all ages.
+
+## The Challenge
+
+The YMCA of San Diego County has tasked Jacob Tyler Agency with enhancing its website by creating an impactful, relevant and attractive online presence so that they may continue their path for success, credibility and new opportunities for expansion and profit. Jacob Tyler Agency will create an online experience which allows all Y locations to work together in unison, keeping the brand and experience consistent across the San Diego system to support the “Join One, Join All” membership benefits.
 
 {:#section2}
-## Sub Heading
+# Our Approach
 
 Officia ullamco dolor duis nulla consectetur deserunt mollit do irure sit amet nulla minim Lorem nostrud cillum mollit. Sunt quis ea ut ad fugiat minim in culpa consequat incididunt aliqua. Consequat proident commodo laborum nisi non laborum veniam ad labore Lorem. Nulla ea esse qui ipsum mollit anim occaecat incididunt aute incididunt exercitation aliquip. Elit deserunt officia aute laboris mollit sint adipisicing minim dolore occaecat aute anim laboris esse ad. Consectetur magna irure deserunt eiusmod ullamco consequat ea sunt dolore in nisi deserunt.
 
