@@ -1,17 +1,22 @@
 ---
 layout: project
-permalink: Beer-Labels
+permalink: Graphics
 modal-id: 5
 date: 2014-07-15
-title: Beer Labels
+title: Graphics
 img: graphics.jpg
-hero-img: graphics.jpg
+hero-img: graphics/graphics-hero.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Graphic Design
-disipline: UI/UX
-duration: lifetime
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+category: Graphic Designs
+disipline: Visual
+duration: infinity
+description: Graphics gallery
 
 ---
+![ucsd](../img/portfolio/graphics/summersales copy.jpg "art"){:.img-responsive .mx-auto}
+![ucsd](../img/portfolio/graphics/springbanner2.jpg "art"){:.img-responsive .mx-auto}
+![ucsd](../img/portfolio/graphics/2016-rdx-1920p.jpg "art"){:.img-responsive .mx-auto}
+![ucsd](../img/portfolio/graphics/0709HQS.jpg "art"){:.img-responsive .mx-auto}
+![ucsd](../img/portfolio/graphics/beer_bottle3.jpg "art"){:.img-responsive .mx-auto}
