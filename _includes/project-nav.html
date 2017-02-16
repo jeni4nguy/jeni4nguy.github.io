@@ -1,0 +1,23 @@
+<nav class="navbar navbar-default" role="tertiary-navigation">
+    <div class="container-fluid">
+
+<style>
+.navbar .navbar-nav {
+  display: inline-block;
+  float:none;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}
+</style>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                {% for post in site.posts %}
+                <li>
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>

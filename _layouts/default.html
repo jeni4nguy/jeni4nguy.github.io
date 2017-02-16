@@ -4,8 +4,8 @@
     <body id="page-top" class="index">
     {% include nav.html %}
     {% include header.html %}
-    {% include portfolio_grid.html %}
     {% include about.html %}
+    {% include portfolio_grid.html %}
 
     {% if site.contact == "static" %}
     {% include contact_static.html %}
@@ -15,8 +15,11 @@
     {% include contact.html %}
     {% endif %}
 
-    {% include footer.html %}
+
     {% include modals.html %}
+    <script type="text/javascript">
+    var highlightNav = '.navbar-fixed-top';
+    </script>
     {% include js.html %}
     </body>
 </html>
