@@ -1,0 +1,41 @@
+.project-body{
+  background-color: #fff;
+  margin-top: -100px;
+  /*margin-right: 50px;*/
+}
+@media screen and (min-width: 768px){
+  .project-body{
+    padding: 50px 100px;
+  }
+}
+#side-nav{
+  /*white-space: nowrap;*/
+  font-weight: 300;
+  text-transform: none;
+  margin-left: -50px;
+  background-color: transparent;
+}
+#side-nav h4{
+  text-transform: none;
+  /*font-weight: 300;*/
+}
+#side-nav ul {
+  border-left: 1px solid #000;
+}
+#side-nav ul li a{
+  font-size: 18px;
+}
+#side-nav.affix {
+  top: 30%;
+  z-index: 2;
+}
+.nav>li>a:hover, .nav>li>a:focus{
+  color: #18bc9c;
+  background-color: transparent;
+}
+
+@media (min-width: 1200px){
+.contact-form {
+    margin-left: 10%;
+}
+}

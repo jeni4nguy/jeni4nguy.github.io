@@ -1,12 +1,58 @@
 ---
-layout: default
+layout: project
+permalink: Hensel-Phelps
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+title: Hensel Phelps
+img: hp-square.jpg
+hero-img: hp/hp-hero-2.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+category: Website Redesign
+disipline: UX/UI
+duration: 5+ months
+description: Details on the Hensel Phelps Project
 
 ---
+
+{:#section1}
+# The Challenge
+### Background
+
+A nationwide company with over 2000 employees and an annual revenue of over three billion dollars, Hensel Phelps is a proven leader in the planning, building, and management of large scale construction projects.
+
+### The Challenge
+
+Hensel Phelps has tasked Jacob Tyler Agency with enhancing its website by creating an impactful, relevant and attractive online presence so that they may continue their path for success, credibility and new opportunities for expansion and profit. Jacob Tyler Agency will create an online experience which will position Hensel Phelps as the best-in-breed service leader for all things construction.
+
+{:#section2}
+# Our Approach
+### Competitive Analysis
+
+Lorem ipsum
+![hp](../img/portfolio/hp/comp-analysis.jpg "comp-analysis"){:.img-responsive .mx-auto}
+
+{:#section3}
+### Information Architecture
+
+Lorem ipsum  
+
+
+{:#section4}
+### Wireframes
+
+Lorem ipsum
+
+![hp](../img/portfolio/hp/wireframe.jpg "wireframe"){:.img-responsive .mx-auto}
+
+{:#section5}
+### Design
+Lorem ipsum
+
+![hp](../img/portfolio/hp/design.jpg "design"){:.img-responsive .mx-auto}
+
+{:#section6}
+
+# Impact
+This is still a work in Progress. Website is set to launch in Early 2017.
