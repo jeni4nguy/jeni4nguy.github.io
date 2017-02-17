@@ -22,6 +22,7 @@ navs:
   - Impact
 
 ---
+{:#section1}
 # The Challenge
 ### Background
 
@@ -62,4 +63,4 @@ Created the UI to give more depth to the colors, fonts, and styles to be used in
 # Impact
 Website was launched on October 2016.
 
-<https://www.sudoscan.com/>
+(https://www.sudoscan.com/){:target="_blank"}
