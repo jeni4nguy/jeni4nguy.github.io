@@ -13,6 +13,13 @@ category: Mobile App Design
 disipline: UX
 duration: 6 months
 description: Details on Soundseed the App
+navs:
+  - The Challenge
+  - Our Approach
+  - Information Architecture
+  - Wireframes
+  - Design
+  - Impact
 
 ---
 {:#section1}

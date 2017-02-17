@@ -13,6 +13,13 @@ category: Product Design
 disipline: UX/UI
 duration: 1 quarter
 description: Details on student project
+navs:
+  - The Challenge
+  - Our Approach
+  - Information Architecture
+  - Wireframes
+  - Design
+  - Impact
 
 ---
 {:#section1}

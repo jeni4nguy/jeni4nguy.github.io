@@ -13,6 +13,13 @@ category: Website Redesign + Mobile App
 disipline: UX/UI
 duration: 9 months
 description: Details on YMCA project
+navs:
+  - The Challenge
+  - Our Approach
+  - Information Architecture
+  - Wireframes
+  - Design
+  - Impact
 
 ---
 {:#section1}

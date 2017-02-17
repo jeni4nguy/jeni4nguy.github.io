@@ -29,9 +29,13 @@
   top: 30%;
   z-index: 2;
 }
-.nav>li>a:hover, .nav>li>a:focus{
+.nav>li>a:hover{
   color: #18bc9c;
   background-color: transparent;
+}
+
+.nav>li>a:focus{
+    background-color: transparent;
 }
 
 @media (min-width: 1200px){

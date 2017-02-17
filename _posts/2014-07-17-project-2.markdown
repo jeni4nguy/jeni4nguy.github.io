@@ -13,6 +13,13 @@ category: Website Redesign
 disipline: UX/UI
 duration: 5+ months
 description: Details on the Hensel Phelps Project
+navs:
+  - The Challenge
+  - Our Approach
+  - Information Architecture
+  - Wireframes
+  - Design
+  - Impact
 
 ---
 

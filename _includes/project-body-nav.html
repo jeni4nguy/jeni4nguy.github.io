@@ -4,10 +4,12 @@
       <li class="hidden">
           <a href="#page-top"></a>
       </li>
+      {% for tag in page.navs %}
         <li class="page-scroll">
-            <a href="#section1">The Challenge</a>
+            <a href="#section{{ forloop.index }}">{{ tag }}</a>
         </li>
-        <li class="page-scroll">
+        {% endfor %}
+        <!-- <li class="page-scroll">
             <a href="#section2">Our Approach</a>
         </li>
         <li class="page-scroll">
@@ -21,6 +23,6 @@
         </li>
         <li class="page-scroll">
             <a href="#section6">Impact</a>
-        </li>
+        </li> -->
     </ul>
 </nav>

@@ -13,6 +13,13 @@ category: Website Redesign
 disipline: UX/UI
 duration: 2 months
 description: details
+navs:
+  - The Challenge
+  - Our Approach
+  - Information Architecture
+  - Wireframes
+  - Design
+  - Impact
 
 ---
 # The Challenge
