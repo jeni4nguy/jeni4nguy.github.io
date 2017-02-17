@@ -5,79 +5,79 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Feb 2017 20:12:20 -0800</pubDate>
-    <lastBuildDate>Wed, 15 Feb 2017 20:12:20 -0800</lastBuildDate>
+    <pubDate>Thu, 16 Feb 2017 20:52:20 -0800</pubDate>
+    <lastBuildDate>Thu, 16 Feb 2017 20:52:20 -0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>YMCA</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <description>Details on YMCA project</description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/YMCA</link>
         <guid isPermaLink="true">http://localhost:4000/YMCA</guid>
         
         
-        <category>Website + Mobile</category>
+        <category>Website Redesign + Mobile App</category>
         
       </item>
     
       <item>
-        <title>SudoScan</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <title>Hensel Phelps</title>
+        <description>Details on the Hensel Phelps Project</description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/SudoScan</link>
-        <guid isPermaLink="true">http://localhost:4000/SudoScan</guid>
+        <link>http://localhost:4000/Hensel-Phelps</link>
+        <guid isPermaLink="true">http://localhost:4000/Hensel-Phelps</guid>
         
         
-        <category>Web Development</category>
+        <category>Website Redesign</category>
         
       </item>
     
       <item>
         <title>SoundSeed</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <description>Details on Soundseed the App</description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/SoundSeed</link>
         <guid isPermaLink="true">http://localhost:4000/SoundSeed</guid>
         
         
-        <category>Web Development</category>
+        <category>Mobile App Design</category>
         
       </item>
     
       <item>
         <title>UCSD</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <description>Details on student project</description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/UCSD</link>
         <guid isPermaLink="true">http://localhost:4000/UCSD</guid>
         
         
-        <category>Web Development</category>
+        <category>Product Design</category>
         
       </item>
     
       <item>
-        <title>Beer Labels</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <title>Graphics</title>
+        <description>Graphics gallery</description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/Beer-Labels</link>
-        <guid isPermaLink="true">http://localhost:4000/Beer-Labels</guid>
+        <link>http://localhost:4000/Graphics</link>
+        <guid isPermaLink="true">http://localhost:4000/Graphics</guid>
         
         
-        <category>Graphic Design</category>
+        <category>Graphic Designs</category>
         
       </item>
     
       <item>
-        <title>Swedish</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <title>SudoScan</title>
+        <description>details</description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/Swedish-Program</link>
-        <guid isPermaLink="true">http://localhost:4000/Swedish-Program</guid>
+        <link>http://localhost:4000/Sudoscan</link>
+        <guid isPermaLink="true">http://localhost:4000/Sudoscan</guid>
         
         
-        <category>Web Development</category>
+        <category>Website Redesign</category>
         
       </item>
     

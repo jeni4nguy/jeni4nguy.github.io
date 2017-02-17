@@ -1,17 +1,10 @@
-<!DOCTYPE html>
 <html>
 {% include head.html %}
 
 <body id="page-top" class="index" data-spy="scroll" data-target="#side-nav">
     {% include project-top-nav.html %}
     {% include project-header.html %}
-    {% include project-body.html %}
+    {{content}}
     {% include project-nav.html %}
-    <a href="#0" class="cd-top">Top</a>
-    <script type="text/javascript">
-    var highlightNav = '#side-nav';
-    </script>
-    {% include js.html %}
-</body>
-
-</html>
+  </body>
+  </html>
