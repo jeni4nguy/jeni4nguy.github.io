@@ -66,9 +66,8 @@ We started with Paper Prototypes. Our idea was to make composting easier and mor
 
 Before this project, I never realized how many different designs exist in the world for Recycling. I thought the answer was "obvious" but we still haven't settled on that one "perfect" design. There's a lot of variation.
 
-I was inspired by the Fun Theory. The Fun Theory states that something as simple as fun is the easiest way to change people’s behaviour for the better. Be it for yourself, for the environment, or for something entirely different, the only thing that matters is that it’s change for the better.
+I was inspired by the Fun Theory. <a href="http://www.thefuntheory.com" target="_blank">The Fun Theory</a> states that something as simple as fun is the easiest way to change people’s behaviour for the better. Be it for yourself, for the environment, or for something entirely different, the only thing that matters is that it’s change for the better.
 
-<http://www.thefuntheory.com> {:target="_blank"}
 
 
 Even more so, I was inspired by their Bottle Bank Arcade Machine. You can watch the video below:
