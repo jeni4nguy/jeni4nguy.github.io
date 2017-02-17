@@ -19,8 +19,7 @@ body {
 p {
     font-size: 20px;
     font-weight:300;
-    line-height: 1.58;
-    /*line-height: 1em;*/
+    line-height: 1.58em;
 }
 
 p.small {
@@ -243,7 +242,7 @@ section.success {
 }
 #about p{
   /*width: 80%;*/
-  line-height: 2em;
+  line-height: 1.58em;
 }
 
 @media(min-width: 768px){
