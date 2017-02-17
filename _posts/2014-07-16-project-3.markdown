@@ -26,25 +26,25 @@ navs:
 # The Challenge
 ### Background
 
-Soundseed is a San Diego based start-up company which originally wanted build a web app that connects content creators to their environment.
+Soundseed is a San Diego based start-up company that wanted to build a web app that connects content creators to their environment.
 
 ### The Challenge
 
-The founders of this new app has enlisted my services in order to ensure that the Minimum Viable Product is easy to use and pleasant. As the fifth member of the team, I am taking lead of the User Experience and Design. We are hoping that this web app will have lots of daily users and create a meaningful connection between artists and consumers.
+The founders of this new app had enlisted my services in order to ensure that the Minimum Viable Product was easy to use and pleasant. As the fifth member of the team, I took lead of the User Experience and Design. We hopied that this web app would have lots of daily users and create a meaningful connection between artists and consumers. Read on to find out what happened!
 
 <http://www.soundseed.co>  
 
 {:#section2}
 # Our Approach
 ### User Flows
-Startups have the potential to accomplish great things and provide solutions for some of the world's problems. Since the world is our oyster, I encouraged the founders to really think about which problems they wanted to tackle. Describing the app to other people was only a fraction of the battle, what will users actually accomplish on the mobile app? After some guidance, the founders were able to narrow down the User's tasks.
+Startups have the potential to accomplish great things and provide solutions for some of the world's problems. Since the world is our oyster, I encouraged the founders to really think about which problems they wanted to tackle. Describing the app to other people was only a fraction of the battle, what will users actually accomplish on the mobile app? After some of my guidance, the founders were able to narrow down the User's tasks.
 
-+ Finding an Event using a map
-+ Finding an Event through browsing
++ Finding an Event using a Map
++ Finding an Event through Browsing
 + Experiencing an Event
 + Creating an Event
 
-Now that I knew the tasks they wanted to focus on, I was now able to create User Flows. These flows would detail the steps that need to be taken in order to complete a task.
+Now that I knew the tasks they wanted to focus on, I could create User Flows. These flows would detail the steps that needed to be taken in order to complete a task.
 ![soundseed](../img/portfolio/soundseed/flow1.jpg "user flow"){:.img-responsive .mx-auto}
 ![soundseed](../img/portfolio/soundseed/flow2.jpg "user flow"){:.img-responsive .mx-auto}
 ![soundseed](../img/portfolio/soundseed/flow3.jpg "user flow"){:.img-responsive .mx-auto}
@@ -61,7 +61,7 @@ Next, I suggested that they have an Information Architecture in order to organiz
 {:#section4}
 ### Wireframes
 
-I was really excited to jump into wireframes because it involved a lot of creativity. Since we were essentially trying to build an app that has never been done before, I definitely had a lot of fun during this stage. I created low-fidelity wireframes using Balsamiq to visually guide the developers on building the API and data layers. I mainly gathered feedback from my friends and made multiple iterations. It would've been cool to have a Venture Capitalist invest in this idea so that the money could've gone towards user research. I wanted to test my wireframes with users from the target demographics for this app. Those users were millenials, music artists, and recording labels.
+I was really excited to jump into wireframes because it involved a lot of creativity. Since we were essentially trying to build an app that has never been done before, I definitely had a lot of fun during this stage. I created low-fidelity wireframes using Balsamiq to visually guide the developers on building the API and data layers. I mainly gathered feedback from my friends and made multiple iterations. It would've been cool to have a Venture Capitalist invest in this idea so that the money could've gone towards user research. I wanted to test my wireframes with users from the target demographics for this app. Those users were Millenials, Music artists, and Recording Labels.
 
 ![soundseed](../img/portfolio/soundseed/balsamiq-1.png "wireframe"){:.img-responsive .mx-auto}
 ![soundseed](../img/portfolio/soundseed/balsamiq-2.png "wireframe"){:.img-responsive .mx-auto}
