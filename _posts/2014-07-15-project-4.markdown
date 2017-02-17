@@ -68,7 +68,7 @@ Before this project, I never realized how many different designs exist in the wo
 
 I was inspired by the Fun Theory. The Fun Theory states that something as simple as fun is the easiest way to change people’s behaviour for the better. Be it for yourself, for the environment, or for something entirely different, the only thing that matters is that it’s change for the better.
 
-<http://www.thefuntheory.com/> {:target="_blank"}
+<http://www.thefuntheory.com> {:target="_blank"}
 
 
 Even more so, I was inspired by their Bottle Bank Arcade Machine. You can watch the video below:
