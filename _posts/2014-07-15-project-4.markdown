@@ -3,7 +3,7 @@ layout: project
 permalink: UCSD
 modal-id: 4
 date: 2014-07-15
-title: UCSD
+title: UCSD Food Waste
 img: ucsd-square.jpg
 hero-img: ucsd/ucsd-hero.jpg
 alt: image-alt
@@ -16,9 +16,9 @@ description: Details on student project
 navs:
   - The Challenge
   - Our Approach
-  - Information Architecture
-  - Wireframes
-  - Design
+  - Personas
+  - Low Fidelity Prototype
+  - High Fidelity Prototype
   - Impact
 
 ---
@@ -26,7 +26,7 @@ navs:
 # The Challenge
 ### Background
 
-UCSD is one of the top public universities in the US, and is a leader in fields such as medical, science, and engineering.
+University of California, San Diego is one of the top public universities in the world, and is a leader in fields such as Medical, Science, and Engineering.
 
 ### The Challenge
 
@@ -36,18 +36,18 @@ We are a team of students part of a special studies Cognitive Science course cal
 # Our Approach
 ### Needfinding
 
-The first step we did was created an online survey to determine student's knowledge on composting. Many students were unaware that our compost landfill (Miramar Landfill) takes 0% contamination. They were pleasantly surprised to find that all of the plates/utensils at the dining halls are recyclable and that all food scraps can be composted at UCSD.
+The first step we did was we created an online survey to determine student's knowledge on composting. Many students were unaware that our compost landfill (Miramar Landfill) takes 0% contamination. They were also pleasantly surprised to find that all of the plates/utensils at the dining halls were recyclable and that all food scraps can be composted at UCSD.
 
-We were working in a very unique problem space, in which the post consumer side were not properly composting at the dining halls. This affects the university, student body, and environment.
+We were working in a very unique problem space in which the post consumer side was not properly composting at the dining halls. This in turn affects the university, student body, and environment.
 
-In addition to that, we conducted in person interviews, and collaborated with the Housing, Dining, and Hospitality Department on-campus. My favorite part was "deep hanging out" in which we would just simply make observations in everyday settings. This meant we had to sit and observe how students were sorting their trash.
+In addition to that, we conducted in-person interviews, and collaborated with the Housing, Dining, and Hospitality Department on-campus. My favorite part was "deep hanging out" in which we would just simply make observations in everyday settings. This meant we had to sit and observe how students were sorting their trash.
 
 Our findings suggested these pain points:
 + Lack of Education
-+ How to recover from errors
++ How to Recover from Errors
 + Inconvenience of sorting trash by hand during collection
 
-With this in mind, we had to design a solution under the constraint that we couldn't drastically change the trash bins.
+With this in mind, we had to design a solution under the constraint that we couldn't drastically change the trash bins (as requested by HDH).
 
 
 {:#section3}
@@ -64,11 +64,12 @@ We were also aware that HDH Econauts have already made plenty of past attempts t
 
 We started with Paper Prototypes. Our idea was to make composting easier and more fun to the students. Again, going back to our Personas we had to develop trash bins that were easy to understand and easy to use.
 
-Before this project, I never realized how many different designs exist in the world for Recycling. It was during the Competitive Analysis, that we researched what people around the world has designed.
+Before this project, I never realized how many different designs exist in the world for Recycling. I thought the answer was "obvious" but we still haven't settled on that one "perfect" design. There's a lot of variation.
 
 I was inspired by the Fun Theory. The Fun Theory states that something as simple as fun is the easiest way to change people’s behaviour for the better. Be it for yourself, for the environment, or for something entirely different, the only thing that matters is that it’s change for the better.
 
-<http://www.thefuntheory.com/>
+<http://www.thefuntheory.com/> {:target="_blank"}
+
 
 Even more so, I was inspired by their Bottle Bank Arcade Machine. You can watch the video below:
 
@@ -80,25 +81,25 @@ Even more so, I was inspired by their Bottle Bank Arcade Machine. You can watch 
 
 ![ucsd](../img/portfolio/ucsd/paperprototype.png "proto"){:.img-responsive .mx-auto}
 
-{:#section5}
+
 ### Low Fidelity Prototype
-Next we had to put our collective design to the test. So with arts and crafts materials, we repurposed a trash can in the classroom. We decorated the trash can so that it looked like plants were growing on top, in hopes that it would make students pause to take a moment to reflect on their actions. We labeled the top and underside of the lid with "Food Scraps Only". And we had another sign on the wall that asked students not to throw away trash in there, only compostable food.
+Next we had to put our collective design to the test. So with arts & crafts materials, we repurposed a trash can in the classroom. We decorated the trash can so that it looked like plants were growing on top, in hopes that it would make students pause to take a moment to reflect on their actions. We labeled the top and underside of the lid with "Food Scraps Only". And we had another sign on the wall that asked students not to throw away trash in there, only compostable food.
 
 We found a jamba juice cup in there later that week. Yes, there should be 0% contamination but we were quite impressed with the results. The new trash design did deter a lot of students. Now we just had to figure out what more we could do...
 
 ![ucsd](../img/portfolio/ucsd/proto.png "proto"){:.img-responsive .mx-auto}
 
 
-
+{:#section5}
 ### High Fidelity Prototype
-We came to the conclusion that we should make it harder for students to throw whatever into the Compost bin. But those who knew/cared would still be able to compost correctly. We decided to put a lid on top of the compost bin. That created an extra step for students so it was easier to throw their trash in the other bins. The results were very promising.
+We came to the conclusion that we should make it harder for students to throw whatever into the Compost bin. But those who knew/cared would still be able to compost correctly. We decided to put a lid on top of the compost bin. That created an extra step for students so that it was easier to throw their trash in the other bins. The results were very promising.
 
-We discovered that the new design worked but only to an extent. The compost bin only had compostable food when the other two bins were not full. If the other two bins were full, then students had no other choice than to put their trash in the compost bin. This certainly raised a problem that we didn't account for. Ultimately, if the busser is not always taking out the trash then we create a situation in which students have no other choice than to put trash in the compost bin.
+We discovered that the new design worked well but only to an extent. The compost bin only had compostable food when the other two bins (Recycling & Landfill) were not full. If the other two bins were full, then students had no other choice than to put their trash in the compost bin. This certainly raised a problem that we didn't account for. Ultimately, if the busser was not constantly taking out the trash then we create a situation in which students have no other choice than to put trash in the compost bin.
 
-Lastly, our design didn't account for outdoor trash. There are so many more factors such as rodents, weather, and visibility. If we had more time, we would develop more prototypes and conduct more contextual interviews.
+Lastly, our design didn't account for outdoor trash. There are much more factors such as rodents, weather, and visibility to account for. If we had more time, we would develop more prototypes and conduct more contextual interviews.
 
 ![ucsd](../img/portfolio/ucsd/finish.png "proto"){:.img-responsive .mx-auto}
 
 {:#section6}
 # Impact
-I gained experience designing physical prototypes. I stepped out of my comfort zone from designing websites/apps and learned a lot about composting along the way. What our solution ended up being was that we put a lid over the compost bin. There are generally 3 bins at the dining hall, with the other 2 being recycling and landfill. We made it harder to people (who don't care or know about composting) to throw whatever into the composting bin. But for people who did compost properly, they were still able to compost. We wanted to save the 90% rather than eliminate the 10%. San Diego's Miramar Landfill only accepts 0% contaminated compost. So the issue at UCSD is that sometimes the compost bins are not purely compostable materials.
+I gained experience designing physical prototypes. I stepped out of my comfort zone from designing websites/apps and learned a lot about composting along the way. What our solution ended up being was that we put a lid over the compost bin. There are generally 3 bins at the dining hall, with the other 2 being recycling and landfill. We made it harder to people (who don't care or know about composting) to throw whatever into the composting bin. But for people who did compost properly, they were still able to compost simply by lifting the lid. We wanted to save the 90% rather than eliminate the 10%. San Diego's Miramar Landfill only accepts 0% contaminated compost.
