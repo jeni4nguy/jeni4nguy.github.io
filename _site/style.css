@@ -13,11 +13,13 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Opne-Sans", Arial, san-serif;
+    font-family: "Open-Sans", Arial, san-serif;
 }
 
 p {
     font-size: 20px;
+    font-weight:300;
+    line-height: 1.58;
     /*line-height: 1em;*/
 }
 
@@ -689,4 +691,3 @@ footer .footer-below {
     bottom: 30px;
   }
 }
-
