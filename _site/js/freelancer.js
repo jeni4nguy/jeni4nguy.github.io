@@ -30,7 +30,7 @@ $(function() {
 
 $('body').scrollspy({
     target: highlightNav,
-    offset: 60
+    offset: navOffset
 });
 
 

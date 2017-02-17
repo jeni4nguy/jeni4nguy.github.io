@@ -583,6 +583,10 @@ footer .footer-below {
   color: #18bc9c;
   background-color: transparent;
 }
+.navbar-default .navbar-nav>li>a:focus{
+  background-color: transparent;
+  color: #000;
+}
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
   color: #18bc9c;
   background-color: transparent;
