@@ -61,6 +61,4 @@ Created the UI to give more depth to the colors, fonts, and styles to be used in
 {:#section6}
 
 # Impact
-Website was launched on October 2016.
-
-(https://www.sudoscan.com/){:target="_blank"}
+<a href="https://www.sudoscan.com/" target="_blank">Website</a> was launched on October 2016.
