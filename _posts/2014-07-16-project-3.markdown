@@ -30,10 +30,10 @@ Soundseed is a San Diego based start-up company that wanted to build a web app t
 
 ### The Challenge
 
-The founders of this new app had enlisted my services in order to ensure that the Minimum Viable Product was easy to use and pleasant. As the fifth member of the team, I took lead of the User Experience and Design. We hopied that this web app would have lots of daily users and create a meaningful connection between artists and consumers. Read on to find out what happened!
+The founders of this new app had enlisted my services in order to ensure that the Minimum Viable Product was easy to use and pleasant. As the fifth member of the team, I took lead of the User Experience and Design. We hoped that this web app would have lots of daily users and create a meaningful connection between artists and consumers. Read on to find out what happened!
 
 <http://www.soundseed.co>{:target="_blank"}
-  
+
 
 {:#section2}
 # Our Approach
