@@ -7,6 +7,10 @@
    font-family: "Gotham-ExtraLight";
    src: url(../fonts/gotham_svs/Gotham-ExtraLight.otf) format("opentype");
  }
+ @font-face {
+   font-family: "Gotham-Light";
+   src: url(../fonts/gotham_svs/Gotham-Light.otf) format("opentype");
+ }
 body {
     overflow-x: hidden;
     font-family: 'Gotham-ExtraLight', "Open-Sans", Arial, san-serif;
@@ -181,7 +185,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Gotham-Light',Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 .navbar-default{
