@@ -5,8 +5,7 @@
  */
  @font-face {
    font-family: "Gotham-ExtraLight";
-   src: url(../fonts/gotham_svs/ »
-   Gotham-ExtraLight.otf) format("truetype");
+   src: url(../fonts/gotham_svs/Gotham-ExtraLight.otf) format("truetype");
  }
 body {
     overflow-x: hidden;
