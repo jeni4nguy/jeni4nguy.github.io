@@ -11,6 +11,10 @@
    font-family: "Gotham-Light";
    src: url(../fonts/gotham_svs/Gotham-Light.otf) format("opentype");
  }
+ @font-face {
+   font-family: "Gotham-Medium";
+   src: url(../fonts/gotham_svs/Gotham-Medium.otf) format("opentype");
+ }
 body {
     overflow-x: hidden;
     font-family: 'Gotham-ExtraLight', "Open-Sans", Arial, san-serif;
@@ -42,7 +46,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    /*font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 'Gotham-Medium',Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     line-height: 2em;
 }
