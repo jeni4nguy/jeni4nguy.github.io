@@ -246,7 +246,7 @@ section.success {
 }
 #about p{
   /*width: 80%;*/
-  line-height: 1.58em;
+  line-height: 2em;
 }
 
 @media(min-width: 768px){
