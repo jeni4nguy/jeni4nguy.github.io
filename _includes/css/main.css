@@ -21,9 +21,10 @@ body {
 }
 
 p {
-    font-size: 20px;
+    font-size: 16px;
     font-weight:300;
-    line-height: 1.58em;
+    line-height: 2em;
+    color:#777791;
 }
 
 p.small {
