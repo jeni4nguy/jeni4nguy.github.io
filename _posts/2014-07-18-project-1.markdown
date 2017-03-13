@@ -73,11 +73,11 @@ Fortunately, we did transfer these Photoshop files to InVision so at least they 
 
 {:#section5}
 ### Design
-The final step in our UX Approach were the designs. YMCA already has a brand guideline which outlined the acceptable fonts, colors, amongst other things. So designs were created with those in mind. Our Creative Director stepped in and played a major role during this process because photography was a major element to the designs. Quite frankly, the client's Photography selections weren’t that great. So our Creative Director led our team in figuring out which stock photos to buy and which we would need to do in a Photoshoot. I volunteered to be a part of their photoshoot as a model and it was a lot of fun! I had to do zumba, barre, and yoga while smiling the entire time and trying not to sweat too much. It’s harder than it looks!
+The final step in our UX Approach were the designs. YMCA already had a brand guideline which outlined the acceptable fonts, colors, amongst other things. So designs were created with those in mind. Our Creative Director stepped in and played a major role during this process because photography was a major element to the designs. Quite frankly, the client's Photography selections weren’t that great. So our Creative Director led our team in figuring out which stock photos to buy and which we would need to do in a Photoshoot. I volunteered to be a part of their photoshoot as a model and it was a lot of fun! I had to do zumba, barre, and yoga while smiling the entire time and trying not to sweat too much. It’s harder than it looks!
 
 ![ymca](../img/portfolio/ymca/design.jpg "design"){:.img-responsive .mx-auto}
 
 {:#section6}
 
 # Impact
-This is still a work in Progress. Website and Mobile App are set to launch in Early 2017. 
+This is still a work in Progress. Website and Mobile App are set to launch in Early 2017.
