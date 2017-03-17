@@ -33,9 +33,13 @@ San Diego YMCA proudly offers state-of-the-art fitness equipment, group exercise
 
 The YMCA of San Diego County has tasked Jacob Tyler Agency with enhancing its website by creating an impactful, relevant and attractive online presence so that they may continue their path for success, credibility and new opportunities for expansion and profit. Jacob Tyler Agency will create an online experience which allows all Y locations to work together in unison, keeping the brand and experience consistent across the San Diego system to support the “Join One, Join All” membership benefits.
 
-#### My Role                Tools               Timeframe
-UX                          Photoshop           10 months
-                            Illustrator
+|My Role |Tools | Timeframe |
+|:--- |:---- |:----|
+|UX| Photoshop | 10 months |
+| | Illustrator|  |
+
+
+
 
 {:#section2}
 # Our Approach
