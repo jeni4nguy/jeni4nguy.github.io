@@ -22,6 +22,31 @@ navs:
   - Impact
 
 ---
+<div class="container-fluid" class="hidden-xs">
+<div class="row">
+  <div class="col-xs-4">
+    <h3>My Role </h3>
+  </div>
+  <div class="col-xs-4">
+    <h3>Tools </h3>
+  </div>
+  <div class="col-xs-4">
+    <h3>Timeline </h3>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-4">
+    <p class="blackbox">UX Strategy </p>
+  </div>
+  <div class="col-xs-4">
+    <p class="blackbox">Balsamiq</p>
+    <p class="blackbox">User Testing</p>
+  </div>
+  <div class="col-xs-4">
+    <p class="blackbox">3 months</p>
+  </div>
+</div>
+</div>
 {:#section1}
 # The Challenge
 ### Background
