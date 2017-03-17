@@ -23,6 +23,31 @@ navs:
 
 ---
 
+<div class="container-fluid">
+<div class="row">
+  <div class=".col-xs-4">
+    <p>My Role </p>
+  </div>
+  <div class=".col-xs-4">
+    <p>Tools </p>
+  </div>
+  <div class=".col-xs-4">
+    <p>Timeline </p>
+  </div>
+</div>
+<div class="row">
+  <div class=".col-xs-4">
+    <p>UX Strategy </p>
+  </div>
+  <div class=".col-xs-4">
+    <p>Photoshop </p>
+    <p>Illustrator</p>
+  </div>
+  <div class=".col-xs-4">
+    <p>10 months</p>
+  </div>
+</div>
+</div>
 
 {:#section1}
 # The Challenge
