@@ -596,3 +596,7 @@ footer .footer-below {
   color: #18bc9c;
   background-color: transparent;
 }
+td, th {
+    padding: 0 110px 0 0;
+    font-size: 26px;
+}
