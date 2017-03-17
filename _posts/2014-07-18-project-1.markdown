@@ -27,6 +27,27 @@ navs:
 | UX      | Photoshop   | 10 months |
 |         | Illustrator |           |
 
+<table>
+  <thead>
+    <tr>
+      <th>My Role</th>
+      <th>Tools</th>
+      <th>Timeline</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UX</td>
+      <td>Photoshop</td>
+      <td>10 months</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Illustrator</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 {:#section1}
 # The Challenge
 ### Background
