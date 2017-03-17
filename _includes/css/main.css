@@ -600,3 +600,10 @@ td, th {
     padding: 0 100px 0 0;
     font-size: 26px;
 }
+
+.blackbox {
+  color:#fff;
+  background-color: #000000;
+  text-align:center;
+  
+}
