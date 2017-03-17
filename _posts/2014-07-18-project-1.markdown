@@ -23,7 +23,7 @@ navs:
 
 ---
 
-<div class="container-fluid">
+<div class="container-fluid" class="hidden-xs">
 <div class="row">
   <div class="col-xs-4">
     <h3>My Role </h3>
