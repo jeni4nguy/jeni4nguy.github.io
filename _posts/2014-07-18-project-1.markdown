@@ -22,16 +22,18 @@ navs:
   - Impact
 
 ---
+| My Role | Tools       | Timeline  |
+|---------|-------------|-----------|
+| UX      | Photoshop   | 10 months |
+|         | Illustrator |           |
+
 {:#section1}
 # The Challenge
 ### Background
 
 San Diego YMCA proudly offers state-of-the-art fitness equipment, group exercise classes, free child watch, and programs for all ages.
 
-| My Role | Tools       | Timeline  |
-|---------|-------------|-----------|
-| UX      | Photoshop   | 10 months |
-|         | Illustrator |           |
+
 
 ![user flows](../img/portfolio/ymca/YMCA-mockups.png "User Flows"){:.img-responsive .mx-auto}
 ### The Challenge
