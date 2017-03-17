@@ -22,10 +22,6 @@ navs:
   - Impact
 
 ---
-| My Role | Tools       | Timeline  |
-|---------|-------------|-----------|
-| UX      | Photoshop   | 10 months |
-|         | Illustrator |           |
 
 <table>
   <thead>
