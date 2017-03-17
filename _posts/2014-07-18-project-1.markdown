@@ -39,10 +39,10 @@ The YMCA of San Diego County has tasked Jacob Tyler Agency with enhancing its we
 |        | Illustrator|           |
 
 
-| My Role       | Tools         | Timeframe  |
-| :------------ |:------------- | :--------- |
-| UX            | Photoshop     | 10 months  |
-|               | Illustrator   |            |
+| My Role       |      Tools         |      Timeframe  |
+| :------------ |:-------------------| :-------------- |
+| UX            |      Photoshop     |      10 months  |
+|               |      Illustrator   |                 |
 
 
 
